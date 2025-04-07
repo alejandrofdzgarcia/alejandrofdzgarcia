@@ -1,11 +1,11 @@
-<h2 align="left">👋 Hi there! I'm Alejandro Fernández</h2>
+<h2 align="left">👋 Hi there! I'm Alejandro Fernández García</h2>
 <h4 align="left">💻 Software Engineering Student at the University of Oviedo | Passionate about full-stack development, databases and clean code.</h4>
 
 ---
 
 ### 🙋‍♂️ About Me
 
-I'm Alejandro Fernández, a Software Engineering student passionate about new technologies and creating useful software for real-world applications.
+I'm Alejandro, a Software Engineering student passionate about new technologies and creating useful software for real-world applications.
 I particularly enjoy working on enterprise-oriented solutions, especially ERP-style systems that improve business processes and decision-making.
 
 Currently focused on full-stack development, database design, and clean architecture, I'm always looking to learn, build, and contribute to meaningful projects.
