@@ -44,7 +44,7 @@ I believe technology should be practical, accessible, and well-designed—just l
 
 ### 🚀 Projects
 
-🛠️ I am currently working on [WiChat](https://github.com/Arquisoft/wichat_es1c])
+🛠️ I am currently working on [WiChat](https://github.com/Arquisoft/wichat_es1c)
 
 ---
 
