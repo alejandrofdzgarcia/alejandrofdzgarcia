@@ -5,17 +5,13 @@
 
 ### 🙋‍♂️ About Me
 
-I'm Alejandro, a Software Engineering student passionate about new technologies and creating useful software for real-world applications.
-I particularly enjoy working on enterprise-oriented solutions, especially ERP-style systems that improve business processes and decision-making.
+I'm Alejandro, a Software Engineering student. I am passionate about exploring new technologies and general application development, always looking to create useful solutions for the real world.
 
-Currently focused on full-stack development, database design, and clean architecture, I'm always looking to learn, build, and contribute to meaningful projects.
-I believe technology should be practical, accessible, and well-designed—just like good code.
+I enjoy being involved in all phases of software creation. In addition to programming, I have a strong interest in cybersecurity and systems administration, as I believe it is essential for technology to be backed by a secure and efficient infrastructure.
 
----
+I am currently focused on full-stack development, database design, and writing clean code. I am always eager to keep learning, improve my skills, and contribute to meaningful projects.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandrofdzgarcia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  </div>
+I believe technology should be practical, accessible, and well-built—just like good code.
 
 ---
 
@@ -44,7 +40,7 @@ I believe technology should be practical, accessible, and well-designed—just l
 
 ### 🚀 Projects
 
-🛠️ I am currently working on [WiChat](https://github.com/Arquisoft/wichat_es1c)
+🎓 My most recent class project is [WiChat](https://github.com/Arquisoft/wichat_es1c)
 
 ---
 
